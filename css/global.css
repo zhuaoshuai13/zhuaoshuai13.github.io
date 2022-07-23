@@ -1,0 +1,23 @@
+/*鼠标图标*/
+    body {
+      cursor: url(https://npm.elemecdn.com/reverse-stu-allversions@1.0.3/butterfly/diy/default.cur), default;
+    }
+  /*背景图*/
+  #web_bg{
+
+  }
+
+  .recent-post-item{
+    
+  }
+  #recent-posts > .recent-post-item {
+    height: auto;
+    width: 100%;
+    opacity: 0;
+    animation-duration: 1s;
+    /* animation-delay: 500ms; */
+    animation-iteration-count: 1;
+  }
+  #recent-posts > .animate__zoomIn {
+    opacity: 1;
+  }
