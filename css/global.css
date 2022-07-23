@@ -16,14 +16,14 @@
   .recent-post-item{
     
   }
-  #recent-posts > .recent-post-item {
+  /* #recent-posts > .recent-post-item {
     height: auto;
     width: 100%;
-    opacity: 1;
+    opacity: 0;
     animation-duration: 1s;
-    /* animation-delay: 500ms; */
+    animation-delay: 500ms;
     animation-iteration-count: 1;
   }
   #recent-posts > .animate__zoomIn {
     opacity: 1;
-  }
+  } */
