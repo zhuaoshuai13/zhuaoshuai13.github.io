@@ -6,6 +6,12 @@
   #web_bg{
 
   }
+  #page-header{
+    background-color: unset;
+  }
+  #footer{
+    background-color:unset;
+  }
 
   .recent-post-item{
     
