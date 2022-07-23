@@ -19,7 +19,7 @@
   #recent-posts > .recent-post-item {
     height: auto;
     width: 100%;
-    opacity: 0;
+    opacity: 1;
     animation-duration: 1s;
     /* animation-delay: 500ms; */
     animation-iteration-count: 1;
